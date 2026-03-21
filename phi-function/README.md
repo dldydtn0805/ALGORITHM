@@ -4,7 +4,7 @@
 
 대상 파일:
 
-- [Main.java](/Users/yongsoolee/Documents/GitHub/algorithm/phi-function/Main.java)
+- [Main.java](./Main.java)
 
 ## 피함수란?
 

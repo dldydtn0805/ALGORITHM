@@ -6,6 +6,6 @@
 
 현재 정리된 내용:
 
-- [lca](/Users/yongsoolee/Documents/GitHub/algorithm/lca)
-- [kmp](/Users/yongsoolee/Documents/GitHub/algorithm/kmp)
-- [phi-function](/Users/yongsoolee/Documents/GitHub/algorithm/phi-function)
+- [lca](./lca)
+- [kmp](./kmp)
+- [phi-function](./phi-function)
